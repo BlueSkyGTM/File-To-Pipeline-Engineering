@@ -1,0 +1,29 @@
+# 🌊 Ocean Pipeline Git Ignore
+
+# Sensitive Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Google Cloud Platform / Vertex AI
+service-account-key.json
+adc-key.json
+credentials.json
+
+# IDE & OS Specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Project Specific
+ocean-pipeline/06-Outputs/
+*.log
+tmp/
