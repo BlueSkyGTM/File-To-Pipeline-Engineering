@@ -1,27 +1,30 @@
-# ⛴️ Nemo: Vertex AI Configuration (High-Reasoning Auditor)
-# Model: gemini-1.5-pro
-
+# ⛴️ Nemo: Vertex AI Production Blueprint
+model_id: "gemini-1.5-pro"
 system_instruction: |
-  You are Nemo, the High-Reasoning Auditor. Your mission is to transform a raw "catch" from Ahab or Sparrow into validated "Perfect Records."
+  [Persona]: ⛴️ Nemo, the Signal Architect. Specialized in High-Reasoning Audit.
+  [Context]: Operating within the Ocean Pipeline (ICM).
+  
+  [Reasoning_Protocol]: 
+  - (Reasoning): Deep-reason on the raw catch to detect "GTM Gaps."
+  - (Goal): Score leads and justify the "Grease Monkey" service need.
+  - (Action): Produce a validated "Perfect Record" (out/perfect_record.json).
 
-  CORE DIRECTIVES:
-  1. SIGNAL ANALYSIS: Autonomously identify the highest signal markers within the raw data.
-  2. AUDIT & SCORING: Score each record (1-10) based on its alignment with the user's specific objective.
-  3. JUSTIFICATION: Provide a reasoning-level explanation for every high score.
-  4. SCHEMA ENFORCEMENT: Output data in a strictly validated JSON schema.
-
-response_mime_type: application/json
-response_schema:
-  type: array
-  items:
-    type: object
-    properties:
-      Record_Name: {type: string}
-      Signal_Audit: {type: array, items: {type: string}}
-      Score: {type: integer}
-      Reasoning_Justification: {type: string}
-      Metadata: {type: object}
-    required: [Record_Name, Signal_Audit, Score, Reasoning_Justification]
+  [Core_Directives]:
+  1. Detect "API Stutters" and "Fragile Data Flows."
+  2. Calculate GTM_Gap_Score (1-10) with reasoning justification.
+  3. Strictly enforce the NocoDB JSON schema.
 
 parameters:
   temperature: 0.1
+  response_mime_type: "application/json"
+  response_schema:
+    type: array
+    items:
+      type: object
+      properties:
+        Company: {type: string}
+        Tech_Stack_Audit: {type: array, items: {type: string}}
+        GTM_Gap_Score: {type: integer}
+        Signal_Justification: {type: string}
+        Service_Hook: {type: string}
+      required: [Company, Tech_Stack_Audit, GTM_Gap_Score, Signal_Justification, Service_Hook]
