@@ -7,6 +7,9 @@
 - **Objective:** Extract and enrich high-value B2B GTM Engineering service leads from the "Marketing Agencies" list.
 - **Vantage:** Raymond as the "Grease Monkey" engineer building "File-to-Pipe" engines on Google Cloud VMs.
 - **Villain:** "Prompt Bros" and fragile "Zapier Spaghetti" automation.
+- **Copywriting Formulas:** 
+  - **Viking Velociraptor (Long Form):** Verify, Validate, Vantage, Values, Villains.
+  - **5SSSS (Short Punch):** Why me, Why you, Why this, Why now, What do.
 
 ---
 
