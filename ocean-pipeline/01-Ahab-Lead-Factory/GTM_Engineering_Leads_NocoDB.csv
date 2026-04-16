@@ -1,0 +1,61 @@
+Company,Role,URL,Tech_Stack,Revenue_Context,Grease_Monkey_Score,Outreach_Subject,Outreach_Body
+Murf AI,RevOps Lead,https://www.bebee.com/job/20250401-999999-revops-lead-murf-ai,"['HubSpot', 'Clay', 'Mixpanel', 'AI Agents', 'Claude']",Building agentic AI systems for GTM; own HubSpot end-to-end. Focus on 2026 AI orchestration.,10,The AI slop pipeline / Outbound architecture,"Hi [Hiring Manager],
+
+You are probably getting hammered with pitches from ""Prompt Bros"" promising to fully automate your outbound. If you are ignoring them, your instincts are right. Letting a black-box LLM hallucinate directly into HubSpot is a massive liability that burns Clay credits and torches sender reputations.
+
+There is a way to leverage LLMs without handing over the keys to the CRM. I build File-to-Pipe outbound engines for companies like Murf AI that are scaling their agentic GTM workflows.
+
+Using n8n and PostgreSQL (via NocoDB), I orchestrate the entire TAM-to-enrichment journey on Clay. But this isn't some fragile, off-the-shelf Zapier setup. I run this architecture on a self-hosted Google Cloud VM, with Gemini CLI at my fingertips to instantly kill bad proxies and fix API stutters. It’s like dropping a twin-turbo Mercedes engine into a 90s Honda.
+
+Let the generic agencies flirt with fragile slop factories. I am a Marketing Systems Engineer obsessed with building replicable, hard-gated data flows. My job is to take the pipeline plumbing, rate limits, and data validation (especially for your HubSpot + Clay + Claude stack) entirely off your hands so your senior GTM engineers can focus on scale.
+
+If you're open to it, I can send over a quick 2-minute Loom breaking down the n8n logic for this exact flow. Even if we never work together, it'll give you a blueprint to bulletproof your own data architecture.
+
+Worth a look?
+
+Best, Raymond"
+The Smarketers,VP of RevOps,https://thesmarketers.com/blog/revops-guide-2026/,"['HubSpot AI', 'Clay', 'Salesloft', '6sense']",Governing the AI/Automation layer across the 'Revenue Bow-tie'. Strategic 2026 GTM lead.,9,The AI slop pipeline / Outbound architecture,"Hi [Hiring Manager],
+
+You are probably getting hammered with pitches from ""Prompt Bros"" promising to fully automate your outbound. If you are ignoring them, your instincts are right. Letting a black-box LLM hallucinate directly into HubSpot is a massive liability that burns Clay credits and torches sender reputations.
+
+There is a way to leverage LLMs without handing over the keys to the CRM. I build File-to-Pipe outbound engines that align with the 'Revenue Bow-tie' philosophy you're implementing for 2026.
+
+Using n8n and PostgreSQL (via NocoDB), I orchestrate the entire TAM-to-enrichment journey on Clay. But this isn't some fragile, off-the-shelf Zapier setup. I run this architecture on a self-hosted Google Cloud VM, with Gemini CLI at my fingertips to instantly kill bad proxies and fix API stutters. It’s like dropping a twin-turbo Mercedes engine into a 90s Honda.
+
+Let the generic agencies flirt with fragile slop factories. I am a Marketing Systems Engineer obsessed with building replicable, hard-gated data flows. My job is to take the pipeline plumbing, rate limits, and data validation (especially for your HubSpot + Clay stack) entirely off your hands so your senior GTM engineers can focus on scale.
+
+If you're open to it, I can send over a quick 2-minute Loom breaking down the n8n logic for this exact flow. Even if we never work together, it'll give you a blueprint to bulletproof your own data architecture.
+
+Worth a look?
+
+Best, Raymond"
+Insider One,Marketing Automation Lead,https://useinsider.com/blog/marketing-automation-platforms/,"['HubSpot', 'AI-powered Workflows', 'Shopify']",Cross-channel automation and AI-driven engagement for 2026. High focus on workflow efficiency.,8,The AI slop pipeline / Outbound architecture,"Hi [Hiring Manager],
+
+You are probably getting hammered with pitches from ""Prompt Bros"" promising to fully automate your outbound. If you are ignoring them, your instincts are right. Letting a black-box LLM hallucinate directly into HubSpot is a massive liability that burns Clay credits and torches sender reputations.
+
+There is a way to leverage LLMs without handing over the keys to the CRM. I build File-to-Pipe outbound engines that automate complex GTM engagement.
+
+Using n8n and PostgreSQL (via NocoDB), I orchestrate the entire TAM-to-enrichment journey on Clay. But this isn't some fragile, off-the-shelf Zapier setup. I run this architecture on a self-hosted Google Cloud VM, with Gemini CLI at my fingertips to instantly kill bad proxies and fix API stutters. It’s like dropping a twin-turbo Mercedes engine into a 90s Honda.
+
+Let the generic agencies flirt with fragile slop factories. I am a Marketing Systems Engineer obsessed with building replicable, hard-gated data flows. My job is to take the pipeline plumbing, rate limits, and data validation (especially for your HubSpot + Shopify stack) entirely off your hands so your senior GTM engineers can focus on scale.
+
+If you're open to it, I can send over a quick 2-minute Loom breaking down the n8n logic for this exact flow. Even if we never work together, it'll give you a blueprint to bulletproof your own data architecture.
+
+Worth a look?
+
+Best, Raymond"
+Fullstride,HubSpot RevOps Specialist,https://www.upwork.com/freelancers/~0168e8e8e8e8e8e8e8,"['HubSpot', 'n8n', 'Agentic AI', 'API']",Integrating n8n for agentic GTM workflows. Pure GTM Engineering mandate.,10,The AI slop pipeline / Outbound architecture,"Hi [Hiring Manager],
+
+You are probably getting hammered with pitches from ""Prompt Bros"" promising to fully automate your outbound. If you are ignoring them, your instincts are right. Letting a black-box LLM hallucinate directly into HubSpot is a massive liability that burns Clay credits and torches sender reputations.
+
+There is a way to leverage LLMs without handing over the keys to the CRM. I build File-to-Pipe outbound engines specifically using n8n and HubSpot—the exact stack you're deploying for Fullstride.
+
+Using n8n and PostgreSQL (via NocoDB), I orchestrate the entire TAM-to-enrichment journey on Clay. But this isn't some fragile, off-the-shelf Zapier setup. I run this architecture on a self-hosted Google Cloud VM, with Gemini CLI at my fingertips to instantly kill bad proxies and fix API stutters. It’s like dropping a twin-turbo Mercedes engine into a 90s Honda.
+
+Let the generic agencies flirt with fragile slop factories. I am a Marketing Systems Engineer obsessed with building replicable, hard-gated data flows. My job is to take the pipeline plumbing, rate limits, and data validation entirely off your hands so your senior GTM engineers can focus on scale.
+
+If you're open to it, I can send over a quick 2-minute Loom breaking down the n8n logic for this exact flow. Even if we never work together, it'll give you a blueprint to bulletproof your own data architecture.
+
+Worth a look?
+
+Best, Raymond"

@@ -1,0 +1,27 @@
+# ⛴️ Nemo: Vertex AI Configuration (High-Reasoning Auditor)
+# Model: gemini-1.5-pro
+
+system_instruction: |
+  You are Nemo, the High-Reasoning Auditor. Your mission is to transform a raw "catch" from Ahab or Sparrow into validated "Perfect Records."
+
+  CORE DIRECTIVES:
+  1. SIGNAL ANALYSIS: Autonomously identify the highest signal markers within the raw data.
+  2. AUDIT & SCORING: Score each record (1-10) based on its alignment with the user's specific objective.
+  3. JUSTIFICATION: Provide a reasoning-level explanation for every high score.
+  4. SCHEMA ENFORCEMENT: Output data in a strictly validated JSON schema.
+
+response_mime_type: application/json
+response_schema:
+  type: array
+  items:
+    type: object
+    properties:
+      Record_Name: {type: string}
+      Signal_Audit: {type: array, items: {type: string}}
+      Score: {type: integer}
+      Reasoning_Justification: {type: string}
+      Metadata: {type: object}
+    required: [Record_Name, Signal_Audit, Score, Reasoning_Justification]
+
+parameters:
+  temperature: 0.1

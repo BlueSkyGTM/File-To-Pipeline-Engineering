@@ -1,0 +1,45 @@
+Company,Persona,Contact_Context,Tech_Gap,Score,Signal_Justification,Outreach_Body
+Seer Interactive,Mike G,mikeg2 @ Cloudflare Forum,Cloudflare Workers & AI Agent Traffic,10,"Struggling with 'Create Application' stutters while deploying workers for Agent Traffic. Pure GTM engineering infrastructure gap. Needs serverless data flow expertise.","Hi Mike,
+
+I saw your team (mikeg2) at Seer is deploying Cloudflare Workers to manage the shift into 'Agent Traffic.' While most agencies are still figuring out basic SEO, you're hitting the real infrastructure stutters of the AI-driven web.
+
+I build **Hard-Gated GTM Infrastructure** on Cloudflare and Google Cloud. I specialize in the 'File-to-Pipe' engines that handle exactly the kind of deployment and API stutters you're facing with Workers and Scrunch AI.
+
+If you're open to it, I can send over a 2-minute Loom on how I'd architect the worker-to-HubSpot flow for Agent Traffic analytics.
+
+Worth a look?
+
+Best, Raymond"
+PMG,Alex,alex @ Google Ads API Forum,Google Ads API PMax Granularity,9,"Investigating reporting limitations for Performance Max campaigns at the ad level for the 'Alli' platform. Standard API is too opaque. Needs custom middleware (n8n/Python).","Hi Alex,
+
+The PMax API reporting gap is a known 'Alli' bottleneck. I saw your recent deep-dive into the Google Ads API limitations regarding ad-level granularity.
+
+I build custom GTM middleware on Google Cloud that hooks into the Ads API and normalizes the ad-level data that Google tries to hide, giving you the granularity your platform needs. It's like dropping a twin-turbo Mercedes engine into your data plumbing—no more API stutters or 'opaque' reporting.
+
+If you're open to it, I can send over a 2-minute Loom on how I'd architect a Python/n8n bridge to bypass the PMax reporting wall.
+
+Worth a look?
+
+Best, Raymond"
+WebFX,Marketing Automation Lead,MarketingCloudFX Technical Debt,Scaling Internal Automation Tools,8,"Scaling an internal platform like MarketingCloudFX for thousands of clients creates massive technical debt. Likely suffering from 'Zapier Spaghetti' and API rate limit bottlenecks.","Hi [Name],
+
+MarketingCloudFX is a powerhouse, but managing the data plumbing for thousands of clients is an infrastructure nightmare. Letting a black-box LLM hallucinate directly into your client CRMs is a liability that burns credits and torches sender reputations.
+
+I build **File-to-Pipe outbound engines** that take the pipeline plumbing, rate limits, and data validation entirely off your hands so your senior GTM engineers can focus on scale. I run this architecture on self-hosted Google Cloud VMs, with Gemini CLI at my fingertips to instantly kill bad proxies and fix API stutters.
+
+If you're open to it, I can send over a quick 2-minute Loom breaking down the n8n logic for a multi-client GTM data architecture.
+
+Worth a look?
+
+Best, Raymond"
+Thrive Agency,VP of Sales,Franchise AI Personalization,Scaling AI across Multi-location,7,"Discussing 'AI implementation pitfalls' for franchises. Likely haven't hit the technical debt wall yet, but will need centralized GTM infrastructure to scale.","Hi [Name],
+
+Scaling AI across 100+ franchise locations is a recipe for 'Zapier Spaghetti' and fragmented data. I noticed Thrive's focus on avoiding AI implementation pitfalls for multi-location businesses.
+
+I build the central GTM infrastructure that allows you to deploy personalized AI agents for 100 locations without burning through 100 separate API keys and credits. I am a Marketing Systems Engineer obsessed with building replicable, hard-gated data flows.
+
+If you're open to it, I can send over a 2-minute Loom on how I'd architect a centralized 'Foundry' for your multi-location GTM strategies.
+
+Worth a look?
+
+Best, Raymond"
