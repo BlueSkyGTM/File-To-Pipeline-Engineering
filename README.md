@@ -1,40 +1,39 @@
-# The Ocean Pipeline 🌊 (GTM-as-a-Service)
+# The Ocean Pipeline 🌊: GTM-as-a-Service Foundry
 
-The **Ocean Pipeline** is a state-aware, filesystem-based GTM extraction and enrichment framework built on the **Interpreted Context Methodology (ICM)** and powered by **Vertex AI**.
+> **"Stripping away interfaces in favor of true agentic iteration."**
+
+The **Ocean Pipeline** is a state-aware, filesystem-based GTM extraction and enrichment framework. It is built on the **Interpreted Context Methodology (ICM)** and the **Professor Synapse (Synapse_Co-Pilot)** methodology, specifically engineered for the **Vertex AI** ecosystem.
 
 ## 🔱 The Architect's Vision
-This pipeline is designed for "Grease Monkey" GTM engineers who build hard-gated data flows. It replaces fragile Zapier/n8n workflows with a transparent, "glass-box" filesystem loop where every stage is an interpreted layer of context.
+This is not a "chatbot" or a "wrapper." This is **GTM Infrastructure-as-Code**. We have manifest a "Foundry" for GTM engineers who build hard-gated data flows ("File-to-Pipe") to solve "API stutters" and "Zapier Spaghetti."
 
 ## 🎭 The Fleet & Personas
-- **🔱 Neptune:** The Senior GTM Architect and primary conversational interface (The Webhook).
-- **⚓ Ahab:** The Broad Search Grounding specialist (The Hunter).
-- **🐦 Sparrow:** The Deep-Sourcing Google Dorking specialist (The Scout).
-- **⛴️ Nemo:** The High-Reasoning Technical Auditor (The Signal Architect).
-- **📜 Mariner:** The "Grease Monkey" Copywriter (The Storyteller).
-- **🦑 Kraken:** The Logistics Engine managing file placement, auth, and git sync.
+The pipeline is orchestrated by a dual-intelligence model:
+
+- **🔱 Neptune (Senior GTM Architect):** The overarching voice and webhook. Neptune interprets natural language intent and delegates to the specialized fleet.
+- **🦑 Kraken (Logistics OS):** The "Tentacle" interface. Kraken handles the gritty reality of authentication (Vertex AI), file placement (ICM handoffs), and state persistence (Git).
+- **⚓ Ahab (The Hunter):** Broad Search Grounding specialist.
+- **🐦 Sparrow (The Scout):** Deep-sourcing Google Dorking specialist.
+- **⛴️ Nemo (The Signal Architect):** High-reasoning technical auditor (gemini-1.5-pro).
+- **📜 Mariner (The Storyteller):** Contextual "Grease Monkey" copywriter.
 
 ## 🏗️ The ICM Reiteration Loop
-Instead of linear steps, the pipeline uses a **Folder = Stage** architecture. Each bot "wakes up" when data appears in its `in/` folder and writes its artifact to `out/`.
+The pipeline follows the **Interpreted Context Methodology (ICM)**, where the **Folder = Stage**.
 
-```text
-/ocean-pipeline
-  ├── /01-Ahab-Lead-Factory   (Broad Grounding)
-  ├── /02-Sparrow-Sniper       (Deep Dorking)
-  ├── /03-Nemo-Pre-Enrichment  (High-Reasoning Audit)
-  ├── /04-Mariner-Copywriting  (Contextual Copy)
-  ├── /05-Kraken-Orchestrator  (Logistics & Auth)
-  └── /06-Outputs              (Final NocoDB CSVs)
-```
+1.  **Stage 00: Mission Control** - The GTM Synapse. Defines goals, roles, and learned patterns.
+2.  **Stage 01: Ahab-Lead-Factory** - Broad grounded search for "White Whale" leads.
+3.  **Stage 02: Sparrow-Sniper** - Deep dorking for un-indexed technical debt.
+4.  **Stage 03: Nemo-Pre-Enrichment** - High-reasoning audit and GTM Gap scoring.
+5.  **Stage 04: Mariner-Copywriting** - "Grease Monkey" narrative drafting.
+6.  **Stage 05: Kraken-Orchestrator** - Logistics, Auth, and Git synchronization.
+7.  **Stage 06: Outputs** - Final production artifacts (CSVs, Reports, JSON).
 
-## 🚀 Getting Started (CLI Orchestration)
-1. **Initialize the Mission:** Write your objective to `ocean-pipeline/01-Ahab-Lead-Factory/in/mission.txt`.
-2. **Summon Ahab:** Command Neptune to trigger the hunt. Ahab will "think out loud" ⚓ and produce `out/catch.json`.
-3. **Move Data (Kraken):** Kraken 🦑 moves the catch to `03-Nemo/in/`.
-4. **Audit (Nemo):** Nemo ⛴️ audits the catch and produces `out/perfect_record.json`.
-5. **Storytell (Mariner):** Mariner 📜 drafts the outreach into `out/outreach_pkg.json`.
+## 🚀 Native Agentic Iteration
+Every bot "thinks out loud" using the Synapse-inspired `[Reasoning]` protocol before executing its technical task. The state of the mission is managed entirely by the presence of files in the `in/` and `out/` folders of each stage.
 
 ## 🔱 Vertex AI Deployment
-Every bot folder contains a `PROMPT.yaml`. These are the **Production Blueprints** for deployment as Vertex AI Prompt Templates or Agents.
+Each stage contains a `PROMPT.yaml` file. These are the **Production Blueprints** for deployment as Vertex AI Prompt Templates or Agents.
 
 ---
-*Built with Interpreted Context Methodology (ICM)*
+*Built with Interpreted Context Methodology (ICM) & Professor Synapse Framework*
+*Maintained by Neptune & Kraken* 🔱
